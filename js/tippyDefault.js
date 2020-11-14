@@ -1,0 +1,1 @@
+tippy.setDefaultProps({arrow:true,placement:'top',});tippy('[data-tippy-content]',{animation:'raise',});
